@@ -1,5 +1,4 @@
 import { RouterProvider } from 'react-router-dom';
-import { AppProvider } from './contexts/AppContext.jsx';
 import ErrorBoundary from './components/ErrorBoundary.jsx';
 import router from './router.jsx';
 
